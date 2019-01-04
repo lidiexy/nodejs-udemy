@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "",
+  "db": "mongodb+srv://aha_lalonso:Z93hKJ433Ynhn8U@cluster0-yz3je.azure.mongodb.net/vidly?ssl=true&authSource=admin"
+
+
+}
